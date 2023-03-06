@@ -4,4 +4,11 @@
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x#build-your-own-3d-renderer)
 
 - https://education.github.com/discount_requests/9571346/additional_information
-- [probabilidade](https://techguide.sh/)
+
+- (https://techguide.sh/)
+
+- https://git-school.github.io/visualizing-git/
+
+- https://www.alfredapp.com/
+
+- https://github.com/sindresorhus/emoj
